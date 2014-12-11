@@ -1,8 +1,8 @@
 #ReadMe
 为方便第三方开发者快速集成海词SDK，我们提供一下联系方式，协助开发者进行集成：<br>
-**QQ:78707038**<br>
-**邮箱:service@dict.cn**<br>
-**电话:51095029**<br>
+**QQ:	2355562743**<br>
+**邮箱:	service@dict.cn**<br>
+**电话:	51095029**<br>
 **官方网:<a src="http://dict.cn">http://dict.cn</a>**
 
 另外，关于SDK的Bug反馈，用户体验以及好的建议，请大家致电。<br>
