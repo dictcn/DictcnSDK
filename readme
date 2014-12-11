@@ -1,0 +1,13 @@
+目录说明：
+	SDK:
+		SDK库
+
+	samples:	
+		使用例子程序
+			ConnectHaiciExample1:	通过海词客户端简单查词
+			ConnectHaiciExample2:	通过海词客户端自定义查词
+			ConnectHaiciExample3:	通过默认内建文本控件构建查词界面
+
+	工程部署说明：
+		工程部署操作步骤
+
